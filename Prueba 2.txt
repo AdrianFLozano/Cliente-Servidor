@@ -1,0 +1,8 @@
+Se supone que es una cara feliz
+
+      *****
+  *         *
+*  O     O  *
+*    ---    *
+  *       *
+    *****  
